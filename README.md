@@ -7,6 +7,6 @@ Konsolenbasiertes Text-Adventure in Python. Der Spieler trifft Entscheidungen, e
 - Verschiedene Räume und Entscheidungszweige 
 - Einfache Storyline als Beispiel  
 
-🎮 Steuerung
+## 🎮 Steuerung
 - Texteingabe
 - Eingabeaufforderungen folgen
